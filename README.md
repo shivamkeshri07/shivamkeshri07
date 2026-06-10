@@ -44,6 +44,7 @@
 | 🪔 [Diwali Sales EDA](https://github.com/shivamkeshri07/Exploratory-Data-Analysis-Diwali-Sales) | Python, MySQL, Excel | EDA on seasonal sales data to uncover customer behavior & regional trends |
 | 🍕 [Swiggy Business Analysis Dashboard](https://github.com/shivamkeshri07/Swiggy-Data-Analysis-Dashboard) | Excel, Pivot Tables | Analyzed 10,000+ orders across 15+ cities with interactive dashboard |
 | 🎵 [Music Store SQL Analysis](https://github.com/shivamkeshri07/SQL-Music-Store-Analysis) | MySQL | Solved 10+ business problems using complex SQL queries (JOINs, CTEs, Subqueries) |
+| 🛵 [Blinkit Data Analysis](https://github.com/shivamkeshri07/Blinkit-Data-Analysis) | Power BI | Analyzed sales performance, outlet trends, product categories & customer ratings |
 
 ---
 
