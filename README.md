@@ -10,7 +10,7 @@
 ## 👨‍💻 About Me
 
 - 🔄 **Transitioning** from SEO Analytics into **Data Analytics**
-- 📊 **6+ years** of experience in data analysis, reporting & business intelligence
+- 📊 **6+ years** of experience in SEO analysis, reporting & business intelligence
 - 🛠️ Skilled in **SQL, Python, Power BI, and Excel**
 - 📁 Built **4+ end-to-end data projects** from scratch
 - 🏅 Certified in **SQL Advanced (HackerRank)**, **MS Excel (Microsoft)**, and **Data Analytics (Simplilearn)**
